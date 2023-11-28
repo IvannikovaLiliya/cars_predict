@@ -48,11 +48,7 @@ README.md-файл с выводами по проделанной работе
 Тестирование проводила на http://localhost:8000/docs#/default/predict_items_predict_items_post.
 
 Скрины работы ниже:
-<img src="/Users/liliyaivannikova/Desktop/Снимок экрана 2023-11-28 в 15.57.44.png"/>
-
-<img src="/Users/liliyaivannikova/Desktop/Снимок экрана 2023-11-28 в 15.58.03.png"/>
-
-<img src="/Users/liliyaivannikova/Desktop/Снимок экрана 2023-11-28 в 15.58.17.png"/>
-
-<img src="/Users/liliyaivannikova/Desktop/Снимок экрана 2023-11-28 в 15.58.40.png"/>
-
+<img src="/Users/liliyaivannikova/Documents/ml/cars_predict_hw1/Снимок экрана 2023-11-28 в 15.57.44.png"/>
+<img src="/Users/liliyaivannikova/Documents/ml/cars_predict_hw1/Снимок экрана 2023-11-28 в 15.58.03.png"/>
+<img src="/Users/liliyaivannikova/Documents/ml/cars_predict_hw1/Снимок экрана 2023-11-28 в 15.58.17.png"/>
+<img src="/Users/liliyaivannikova/Documents/ml/cars_predict_hw1/Снимок экрана 2023-11-28 в 15.58.40.png"/>
