@@ -1,17 +1,17 @@
 # cars_predict_hw1
 Проект предсказания стоимости автомобиля по его характеристикам. Реализован сервис, написанный на основе применения FastAPI.
 
-HW1_Regression_with_inference.ipynb - ipynb-ноутбук со всеми проведёнными экспериментами
+[HW1_Regression_with_inference.ipynb](HW1_Regression_with_inference.ipynb) - ipynb-ноутбук со всеми проведёнными экспериментами
 
-car_pred_hw1.py - файл с реализацией сервиса
+[car_pred_hw1.py](car_pred_hw1.py) - файл с реализацией сервиса
 
-car_price_predictor.pkl - файл с сохранёнными весами модели, коэффициентами скейлинга и прочими числовыми значениями (используется в inference)
+[car_price_predictor.pkl](car_price_predictor.pkl) - файл с сохранёнными весами модели, коэффициентами скейлинга и прочими числовыми значениями (используется в inference)
 
-requerments.txt - файл с актуальными версиями библиотек
+[requerments.txt](requerments.txt) - файл с актуальными версиями библиотек
 
-test_ml.csv - файл, который подавала на вход запроса post(/predict_items)
+[test_ml.csv](test_ml.csv) - файл, который подавала на вход запроса post(/predict_items)
 
-items_predict.csv - файл, который получила на выходе запроса post(/predict_items)
+[items_predict.csv](items_predict.csv) - файл, который получила на выходе запроса post(/predict_items)
 
 README.md-файл с выводами по проделанной работе
 
